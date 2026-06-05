@@ -70,6 +70,27 @@ Currently focused on improving:
 * Structured writing for professional use cases
 
 ---
+## 📌 Portfolio Showcase
+
+### ✍️ Writing & AI Content
+- Prompt Engineering for Beginners → `prompt-engineering-for-beginners.md`
+
+### 🎨 Design Work (AI-assisted)
+- Poster designs (Canva / AI tools)
+- Banner and social media creatives
+- Logo concept generation using AI tools
+
+### 📄 Document Creation
+- AI-assisted CV writing
+- Assignment structuring and formatting
+- Case study formatting and summarization
+
+### 🧠 Content Style
+- Short-form thought writing (Instagram-style quotes)
+- Structured professional writing
+- AI-enhanced creative workflows
+  
+---
 
 ## 📫 Connect With Me
 
