@@ -91,7 +91,36 @@ Currently focused on improving:
 - AI-enhanced creative workflows
   
 ---
+## 🖼️ Visual Portfolio (AI Design Work)
 
+I use AI tools and Canva to create visually engaging content for digital platforms.
+
+### 🎨 Poster Designs
+- Social media posters for quotes and thoughts
+- Motivational and aesthetic visual designs
+- AI-assisted layout and typography experiments
+  
+
+### 🪧 Banner Designs
+- Promotional banners
+- Content-based informational visuals
+- Instagram-style creatives
+
+### 🧩 Logo Concepts
+- AI-generated logo ideas
+- Brand-style experimentation designs
+- Minimal and modern logo variations
+<img width="3509" height="2481" alt="BUBBLY FULL LOGO-17" src="https://github.com/user-attachments/assets/fd1ba7cb-491e-4264-85d8-fdde84cda5ed" />
+
+<img width="1756" height="1204" alt="GLN logo 1 final" src="https://github.com/user-attachments/assets/f7e98180-e875-4df5-8c43-81e2442db90f" />
+<img width="3509" height="2481" alt="Flarise NEW LOGO-03" src="https://github.com/user-attachments/assets/88b5c76e-d3fc-4d7a-a425-b099fee02b6f" />
+
+
+  
+
+📌 *Note: Visual samples will be added soon in this repository.*
+
+---
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/k-r-parvathy
